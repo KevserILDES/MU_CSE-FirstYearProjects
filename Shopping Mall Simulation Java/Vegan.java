@@ -1,0 +1,5 @@
+
+interface Vegan {
+	void madeOf();
+
+}
