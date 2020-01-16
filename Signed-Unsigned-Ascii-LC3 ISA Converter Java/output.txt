@@ -1,0 +1,1 @@
+38975     -44     7263     -45     a     NOT R5,R3     LEA R5,#-3     ADD R1,R6,#5     ADD R1,R4,R5     AND R1,R4,R6     AND R2,R2,#0     38975     -44     7263     -45     a     NOT R5,R3     LEA R5,#-3     ADD R1,R6,#5     ADD R1,R4,R5     AND R1,R4,R6     AND R2,R2,#0     
