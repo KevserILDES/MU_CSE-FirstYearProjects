@@ -5,7 +5,7 @@ public class Test {
 
 	public static void main(String[] args) throws IllegalNameException, FileNotFoundException{
 		// TODO Auto-generated method stub
-		/*Kevser Ä°LDEÅž
+		/*Kevser ÝLDEÞ
 		 * 150116048
 		 */
 		Scanner input=new Scanner(System.in);
